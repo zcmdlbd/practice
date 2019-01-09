@@ -1,4 +1,4 @@
-package xuexi;
+package 字符串;
 
 public class MathAZ {
 	public static void main(String[] args) {
